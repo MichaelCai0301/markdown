@@ -11,3 +11,6 @@ printf("%s", "C");
 System.out.println("Java");
 $ git init
 ```
+- [ ] f
+- [x] u
+
